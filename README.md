@@ -48,10 +48,6 @@ Recruitment rates are crucial for the success of clinical trials, impacting cost
 4. Trial phase
 5. Study design factors
 
-### 📈 Feature Importance
-
-![Feature Importance](https://raw.githubusercontent.com/your-username/your-repo/main/assets/feature_importance.png)
-
 ---
 
 ### 🔍 Actual vs Predicted
