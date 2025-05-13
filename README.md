@@ -54,8 +54,7 @@ Recruitment rates are crucial for the success of clinical trials, impacting cost
 ---
 
 ### 🔍 Actual vs Predicted
-
-![Actual vs Predicted](https://raw.githubusercontent.com/your-username/your-repo/main/assets/actual_vs_predicted.png)
+![Actual vs Predicted](https://github.com/user-attachments/assets/0e535851-056c-40e7-b388-cffb8c274d92)
 
 ---
 
