@@ -1,6 +1,7 @@
 # 🧠 Predicting Recruitment Rate in Clinical Trials using Machine Learning
 
-![Clinical Trials](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Clinical_Trials_2015_Visual.png/800px-Clinical_Trials_2015_Visual.png)
+![NEST2025 - NOVARTIS](https://github.com/user-attachments/assets/3c96b0c4-463b-4f94-a451-5bca5b741ab4)
+
 
 > **Team NO DIRECTION | Bennett University**  
 > Project under NEST: Nurturing Excellence, Strengthening Talent  
